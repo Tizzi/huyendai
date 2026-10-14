@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Huyền Đài",
+      "hasCanvas": false,
+      "bodyTextLen": 397,
+      "bodyTextHash": "29822b106a0f16b7a03eee66190564dabca3f922d6fc6233b28e1992dd002a74",
+      "bodyTextPrefix": "Sổ tay lịch và huyền học Huyền Đài Tính trên máy bạn. Không tài ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Huyền Đài",
+      "hasCanvas": false,
+      "bodyTextLen": 1121,
+      "bodyTextHash": "be58eccc1f8adfda46a469ff0dfd294015166b7f69dcc4ec3848d85a58e2e9cb",
+      "bodyTextPrefix": "Sổ tay lịch và huyền học Huyền Đài Tính trên máy bạn. Không tài ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
